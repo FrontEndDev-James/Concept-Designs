@@ -1,2 +1,2 @@
 # Design-E-volve-Concept
-This is a WIP
+The idea is to turn this into a Photoshop alternative concept and re-build it with vanilla HTML and CSS
